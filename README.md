@@ -3,4 +3,5 @@
 1. Learn how to make a new document
 2. Explore the different methods for saving your InDesign documents
 3. Take a hands-on tour of the workspace in Adobe InDesign
-4. Explore how to zoom and pan in an InDesign document
+
+### Test - rename directory and github repo
