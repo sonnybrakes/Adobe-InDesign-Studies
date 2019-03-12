@@ -8,3 +8,4 @@
 5. Explore the different types of frames you can use in InDesign
 6. Learn how to add text to your InDesign projects
 7. Explore dividing text frames into multiple columns
+8. Bring text files into Adobe InDesign from Microsoft Word, and more
